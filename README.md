@@ -19,6 +19,7 @@ This repository is merely a personal avocation and is open to be used as a refer
   
 #CodeChef
   * [MutatedMinions_CC.py  ](https://github.com/specbug/sourceCodeHR/blob/master/CodeChef/MutatedMinions_CC.py)(https://www.codechef.com/FLMOCK01/problems/CHN15A)
+  * [Lapindromes_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/Lapindromes_CC.py)(https://www.codechef.com/FLMOCK01/problems/LAPIN)
   
 
 
