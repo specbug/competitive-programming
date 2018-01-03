@@ -16,6 +16,7 @@ This repository is merely a personal avocation and is open to be used as a refer
   * [Statistics_HR.py   ](https://github.com/specbug/sourceCodeHR/blob/master/HackerRank/Statistics_HR.py)(https://www.hackerrank.com/challenges/s10-basic-statistics/problem)  
   * [XORkey_HR.py   ](https://github.com/specbug/sourceCodeHR/blob/master/HackerRank/XORkey_HR.py)(https://www.hackerrank.com/challenges/xor-key/problem)
   * [2DArrays_HR.py  ](https://github.com/specbug/sourceCodeHR/blob/master/HackerRank/2DArrays_HR.py)(https://www.hackerrank.com/challenges/30-2d-arrays/problem)
+  * [Inheritance_HR.py  ](https://github.com/specbug/sourceCode/blob/master/HackerRank/Inheritance_HR.py)(https://www.hackerrank.com/challenges/30-inheritance/problem)
   
 #CodeChef
   * [MutatedMinions_CC.py  ](https://github.com/specbug/sourceCodeHR/blob/master/CodeChef/MutatedMinions_CC.py)(https://www.codechef.com/FLMOCK01/problems/CHN15A)
