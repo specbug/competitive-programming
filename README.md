@@ -24,6 +24,7 @@ This repository is merely a personal avocation and is open to be used as a refer
   * [MaxWeightDiff_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/MaxWeightDiff_CC.py)(https://www.codechef.com/FLMOCK01/problems/MAXDIFF)
   * [AlternatingArray_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/AlternatingArray_CC.py)(https://www.codechef.com/FLMOCK01/problems/ALTARAY)
   * [CountStrings_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/CountStrings_CC.py)(https://www.codechef.com/FLMOCK01/problems/CSUB)
+  * [ElephantsNCandies_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/ElephantsNCandies_CC.py)(https://www.codechef.com/problems/LECANDY)
   
 
 
