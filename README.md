@@ -19,9 +19,11 @@ This repository is merely a personal avocation and is open to be used as a refer
   * [Inheritance_HR.py  ](https://github.com/specbug/sourceCode/blob/master/HackerRank/Inheritance_HR.py)(https://www.hackerrank.com/challenges/30-inheritance/problem)
   
 #CodeChef
-  * [MutatedMinions_CC.py  ](https://github.com/specbug/sourceCodeHR/blob/master/CodeChef/MutatedMinions_CC.py)(https://www.codechef.com/FLMOCK01/problems/CHN15A)
+  * [MutatedMinions_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/MutatedMinions_CC.py)(https://www.codechef.com/FLMOCK01/problems/CHN15A)
   * [Lapindromes_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/Lapindromes_CC.py)(https://www.codechef.com/FLMOCK01/problems/LAPIN)
   * [MaxWeightDiff_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/MaxWeightDiff_CC.py)(https://www.codechef.com/FLMOCK01/problems/MAXDIFF)
+  * [AlternatingArray_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/AlternatingArray_CC.py)(https://www.codechef.com/FLMOCK01/problems/ALTARAY)
+  * [CountStrings_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/CountStrings_CC.py)(https://www.codechef.com/FLMOCK01/problems/CSUB)
   
 
 
