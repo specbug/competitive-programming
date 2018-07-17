@@ -22,13 +22,13 @@ This repository is merely a personal avocation and is open to be used as a refer
   * [MutatedMinions_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/MutatedMinions_CC.py)(https://www.codechef.com/FLMOCK01/problems/CHN15A)
   * [Lapindromes_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/Lapindromes_CC.py)(https://www.codechef.com/FLMOCK01/problems/LAPIN)
   * [MaxWeightDiff_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/MaxWeightDiff_CC.py)(https://www.codechef.com/FLMOCK01/problems/MAXDIFF)
-  * [AlternatingArray_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/AlternatingArray_CC.py)(https://www.codechef.com/FLMOCK01/problems/ALTARAY)
-  * [CountStrings_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/CountStrings_CC.py)(https://www.codechef.com/FLMOCK01/problems/CSUB)
-  * [ElephantsNCandies_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/ElephantsNCandies_CC.py)(https://www.codechef.com/problems/LECANDY)
-  * [ChefNNotebooks_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/ChefNNotebooks_CC.py)(https://www.codechef.com/problems/CNOTE)
-  * [MinimumNumberOfMoves_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/MinimumNumberOfMoves_CC.py)(https://www.codechef.com/problems/SALARY)
-  * [ChefNRainbowArray_CC.java](https://github.com/specbug/sourceCode/blob/master/CodeChef/ChefNRainbowArray_CC.java)(https://www.codechef.com/problems/RAINBOWA)
-  * [ForgottenLanguage_CC.java](https://github.com/specbug/sourceCode/blob/master/CodeChef/ForgottenLanguage_CC.java)(https://www.codechef.com/problems/FRGTNLNG)
+  * [AlternatingArray_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/AlternatingArray_CC.py)(https://www.codechef.com/FLMOCK01/problems/ALTARAY)
+  * [CountStrings_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/CountStrings_CC.py)(https://www.codechef.com/FLMOCK01/problems/CSUB)
+  * [ElephantsNCandies_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/ElephantsNCandies_CC.py)(https://www.codechef.com/problems/LECANDY)
+  * [ChefNNotebooks_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/ChefNNotebooks_CC.py)(https://www.codechef.com/problems/CNOTE)
+  * [MinimumNumberOfMoves_CC.py  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/MinimumNumberOfMoves_CC.py)(https://www.codechef.com/problems/SALARY)
+  * [ChefNRainbowArray_CC.java  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/ChefNRainbowArray_CC.java)(https://www.codechef.com/problems/RAINBOWA)
+  * [ForgottenLanguage_CC.java  ](https://github.com/specbug/sourceCode/blob/master/CodeChef/ForgottenLanguage_CC.java)(https://www.codechef.com/problems/FRGTNLNG)
 
 
 
