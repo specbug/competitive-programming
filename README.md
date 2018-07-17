@@ -26,6 +26,7 @@ This repository is merely a personal avocation and is open to be used as a refer
   * [CountStrings_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/CountStrings_CC.py)(https://www.codechef.com/FLMOCK01/problems/CSUB)
   * [ElephantsNCandies_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/ElephantsNCandies_CC.py)(https://www.codechef.com/problems/LECANDY)
   * [ChefNNotebooks_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/ChefNNotebooks_CC.py)(https://www.codechef.com/problems/CNOTE)
+  * [MinimumNumberOfMoves_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/MinimumNumberOfMoves_CC.py)(https://www.codechef.com/problems/SALARY)
   
 
 
