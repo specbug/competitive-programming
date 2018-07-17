@@ -4,7 +4,7 @@ A repo containing solution to various problems from different coding platforms.
 
 ##Overview
 
-This repository is merely a personal avocation and is open to be used as a reference by anyone. It contains solutions to many of problems and challenges on [HackerRank](https://www.hackerrank.com/dashboard), [CodeChef](https://www.codechef.com/). It is a sideline activity aimed to keep me motivated and complete milestones for personal endeavorment. I'll try and update the repo with as many solutions as possible. Most (Almost all) of the solutions are in Python.
+This repository is merely a personal avocation and is open to be used as a reference by anyone. It contains solutions to many of problems and challenges on [HackerRank](https://www.hackerrank.com/dashboard), [CodeChef](https://www.codechef.com/). It is a sideline activity aimed to keep me motivated and complete milestones for personal endeavorment. I'll try and update the repo with as many solutions as possible.
 
 
 ##Problems
@@ -27,7 +27,7 @@ This repository is merely a personal avocation and is open to be used as a refer
   * [ElephantsNCandies_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/ElephantsNCandies_CC.py)(https://www.codechef.com/problems/LECANDY)
   * [ChefNNotebooks_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/ChefNNotebooks_CC.py)(https://www.codechef.com/problems/CNOTE)
   * [MinimumNumberOfMoves_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/MinimumNumberOfMoves_CC.py)(https://www.codechef.com/problems/SALARY)
-  
+  * [ChefNRainbowArray_CC.java](https://github.com/specbug/sourceCode/blob/master/CodeChef/ChefNRainbowArray_CC.java)(https://www.codechef.com/problems/RAINBOWA)
 
 
 
