@@ -28,7 +28,7 @@ This repository is merely a personal avocation and is open to be used as a refer
   * [ChefNNotebooks_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/ChefNNotebooks_CC.py)(https://www.codechef.com/problems/CNOTE)
   * [MinimumNumberOfMoves_CC.py](https://github.com/specbug/sourceCode/blob/master/CodeChef/MinimumNumberOfMoves_CC.py)(https://www.codechef.com/problems/SALARY)
   * [ChefNRainbowArray_CC.java](https://github.com/specbug/sourceCode/blob/master/CodeChef/ChefNRainbowArray_CC.java)(https://www.codechef.com/problems/RAINBOWA)
-
+  * [ForgottenLanguage_CC.java](https://github.com/specbug/sourceCode/blob/master/CodeChef/ForgottenLanguage_CC.java)(https://www.codechef.com/problems/FRGTNLNG)
 
 
 
