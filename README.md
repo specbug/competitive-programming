@@ -2,14 +2,14 @@
 A repo containing solution to various problems from different coding platforms.
 
 
-##Overview
+## Overview
 
 This repository is merely a personal avocation and is open to be used as a reference by anyone. It contains solutions to many of problems and challenges on [HackerRank](https://www.hackerrank.com/dashboard), [CodeChef](https://www.codechef.com/). It is a sideline activity aimed to keep me motivated and complete milestones for personal endeavorment. I'll try and update the repo with as many solutions as possible.
 
 
-##Problems
+## Problems
 
-#HackerRank
+# HackerRank
 
   | Solution   |      Problem      |
   |----------|:-------------:|
@@ -21,7 +21,7 @@ This repository is merely a personal avocation and is open to be used as a refer
   | [2DArrays_HR.py  ](https://github.com/specbug/sourceCodeHR/blob/master/HackerRank/2DArrays_HR.py) | (https://www.hackerrank.com/challenges/30-2d-arrays/problem) | 
   | [Inheritance_HR.py  ](https://github.com/specbug/sourceCode/blob/master/HackerRank/Inheritance_HR.py) | (https://www.hackerrank.com/challenges/30-inheritance/problem) | 
   
-#CodeChef
+# CodeChef
 
  | Solution   |      Problem      |
  |----------|:-------------:|
@@ -37,7 +37,13 @@ This repository is merely a personal avocation and is open to be used as a refer
  | [ForgottenLanguage_CC.java ](https://github.com/specbug/sourceCode/blob/master/CodeChef/ForgottenLanguage_CC.java) | (https://www.codechef.com/problems/FRGTNLNG) | 
 
 
+# SPOJ
+ | Solution   |      Problem      |
+ |----------|:-------------:|
+ | [JustNext_SPOJ.java ](https://github.com/specbug/sourceCode/blob/master/SPOJ/JustNext_SPOJ.java) | (https://www.spoj.com/problems/JNEXT/) | 
 
-##Disclaimer
+
+
+## Disclaimer
 
 This repo doesn't mean to opensource or conflict with any problems on any contests anywhere and should be used merely for educational purposes.
