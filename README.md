@@ -9,7 +9,9 @@ This repository is merely a personal avocation and is open to be used as a refer
 
 ## Problems
 
-# HackerRank
+
+
+### HackerRank
 
   | Solution   |      Problem      |
   |----------|:-------------:|
@@ -21,7 +23,10 @@ This repository is merely a personal avocation and is open to be used as a refer
   | [2DArrays_HR.py  ](https://github.com/specbug/sourceCodeHR/blob/master/HackerRank/2DArrays_HR.py) | (https://www.hackerrank.com/challenges/30-2d-arrays/problem) | 
   | [Inheritance_HR.py  ](https://github.com/specbug/sourceCode/blob/master/HackerRank/Inheritance_HR.py) | (https://www.hackerrank.com/challenges/30-inheritance/problem) | 
   
-# CodeChef
+  
+  
+
+### CodeChef
 
  | Solution   |      Problem      |
  |----------|:-------------:|
@@ -37,11 +42,12 @@ This repository is merely a personal avocation and is open to be used as a refer
  | [ForgottenLanguage_CC.java ](https://github.com/specbug/sourceCode/blob/master/CodeChef/ForgottenLanguage_CC.java) | (https://www.codechef.com/problems/FRGTNLNG) | 
 
 
-# SPOJ
+
+
+### SPOJ
  | Solution   |      Problem      |
  |----------|:-------------:|
  | [JustNext_SPOJ.java ](https://github.com/specbug/sourceCode/blob/master/SPOJ/JustNext_SPOJ.java) | (https://www.spoj.com/problems/JNEXT/) | 
-
 
 
 ## Disclaimer
