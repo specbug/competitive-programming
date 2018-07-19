@@ -44,11 +44,6 @@ This repository is merely a personal avocation and is open to be used as a refer
 
 
 
-### SPOJ
- | Solution   |      Problem      |
- |----------|:-------------:|
- | [JustNext_SPOJ.java ](https://github.com/specbug/sourceCode/blob/master/SPOJ/JustNext_SPOJ.java) | (https://www.spoj.com/problems/JNEXT/) | 
-
 
 ## Disclaimer
 
