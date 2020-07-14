@@ -47,4 +47,4 @@ This repository is merely a personal avocation and is open to be used as a refer
 
 ## Disclaimer
 
-I'm not open sourcing any live contest solutions, reference at your own discretion and liability.
+There is no deliberate attempt to open source any live contest solutions, reference at your own discretion and liability.
