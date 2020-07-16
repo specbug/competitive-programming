@@ -4,7 +4,7 @@ def next_move(posr, posc, board):
 	
 	n = 5
 
-	board = [[x for x in k] for k in board]
+# 	board = [[x for x in k] for k in board]
 
 	m_pos = (posr, posc)
 	p_pos = [(x,y) for y in range(n) for x in range(n) if board[x][y] == 'd']
@@ -13,21 +13,21 @@ def next_move(posr, posc, board):
 
 	if m_pos == p_pos:
 		print('CLEAN')
-		# return 'CLEAN'
+		return 'CLEAN'
 
 	else:
 		if m_pos[0] > p_pos[0]:
 			print('UP')
-			# return 'UP'
+			return 'UP'
 		elif m_pos[0] < p_pos[0]:
 			print('DOWN')
-			# return 'DOWN'
+			return 'DOWN'
 		elif m_pos[1] > p_pos[1]:
 			print('LEFT')
-			# return 'LEFT'
+			return 'LEFT'
 		elif m_pos[1] < p_pos[1]:
 			print('RIGHT')
-			# return 'RIGHT'
+			return 'RIGHT'
 
 posr = 1
 posc = 1
