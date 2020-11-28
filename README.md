@@ -12,3 +12,7 @@ It typifies a perpetual effort to contain the solutions to numerous programming 
 ## Key
 
 The filenames are optimized to easily index, via a semantic Google query, the problem source.
+
+## Contributing
+
+Check out the [contribution guidelines](https://github.com/specbug/source_code/blob/master/CONTRIBUTING.md) to get started.
