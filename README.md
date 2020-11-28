@@ -9,4 +9,4 @@ It typifies a perpetual effort to contain the solutions to numerous programming 
 
 ## Key
 
-The filenames are optimized to easily index, via a Google query, the problem source.
+The filenames are optimized to easily index, via a semantic Google query, the problem source.
