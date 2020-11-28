@@ -19,4 +19,4 @@ You can share your solutions under the project, if you abide by the following po
 2. Please make sure you only upload working solutions.
 3. This is not a "learning programming" space ﹣ you can only post solutions to some competitive programming challenge (of any difficulty level).
 4. You can either create a table to link to the problem source (see TODOs), or structure your project such that your filenames links to the source with a simple Google search.
-5. Make sure your code is in-line with the solution format for that particular source.
+5. Make sure your code is in-line with the submission format for that particular source.
