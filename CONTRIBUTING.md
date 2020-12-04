@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-> The objective is to use this repo, as a reward system, to sustain your programming momentum (and passion 🙂).
+> The objective is to use this repo as a reward system to sustain your programming momentum (and passion 🙂).
 
 ## TODOs
 1. An index table to link the problem source to the solution files ([example](https://github.com/lnishan/awesome-competitive-programming/blob/master/index.md)).
