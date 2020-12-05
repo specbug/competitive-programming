@@ -1,14 +1,11 @@
 def partition(arr, key):
 	n = len(arr)
-
 	if len(arr)<2:
 		return arr
-
 	if key in ['L', 'F']:
 		arr = arr[:n//2]
 	else:
 		arr = arr[n//2:]
-
 	return arr
 
 def max_seatID(arr):

@@ -6,8 +6,7 @@ A repo containing solution to various problems from different coding platforms.
 
 ## Overview
 
-This repo is a personal avocation, a hook, to keep me motivated. <br>
-It typifies the perpetual effort to _solve_ programming puzzles.
+This repo is a a hook to keep me motivated. It typifies the perpetual effort to confront cognitive tasks.
 
 ## Key
 
