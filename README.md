@@ -6,7 +6,7 @@ A repo containing solution to various problems from different coding platforms.
 
 ## Overview
 
-This repo is a a hook to keep me motivated. It typifies the perpetual effort to confront cognitive tasks.
+This repo is a hook to keep me motivated. It typifies the perpetual effort to confront cognitive tasks.
 
 ## Key
 
