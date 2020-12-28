@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fib",
+				"fibonacci"
+			],
+			[
+				"mea",
+				"mean_logger"
+			],
+			[
+				"tim",
+				"time_logger"
+			],
+			[
+				"f",
+				"fibonacci"
+			],
+			[
+				"for",
+				"format_change"
+			],
+			[
+				"ma",
+				"max_el"
+			],
+			[
+				"dag",
+				"dag"
+			],
+			[
+				"pri",
+				"print_sum"
+			],
+			[
+				"re",
+				"rev_s"
+			],
+			[
+				"rev",
+				"rev_fc"
+			],
+			[
+				"st",
+				"stu"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"vowe",
+				"vowel_flag"
+			],
+			[
+				"kev",
+				"kevin"
+			],
+			[
+				"ke",
+				"kevin_score"
+			],
+			[
+				"sta",
+				"stuart_score"
+			],
+			[
+				"l",
+				"lss"
+			],
+			[
+				"s",
+				"sub_string"
+			],
+			[
+				"prin",
+				"print_full_name"
+			],
+			[
+				"spl",
+				"split_and_join"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pytho",
+				"Build With: Python"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"package control disa",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rishitvora/Documents/RazorThink/Projects/razor-sdk/Dockerfile",
+		"/Users/rishitvora/Documents/RazorThink/Projects/razor-sdk/requirements.txt",
+		"/Users/rishitvora/Documents/RazorThink/Projects/cli_helper/1.0.1/Dockerfile",
+		"/Users/rishitvora/Documents/RazorThink/Projects/razor-sdk/setup.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/logs/myspace/rca_schema.json",
+		"/Users/rishitvora/Desktop/Simple NN.svg",
+		"/Users/rishitvora/Documents/RazorThink/Projects/logs/myspace/SampleError.json",
+		"/Users/rishitvora/Desktop/b.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/logs/myspace/sample.json",
+		"/Users/rishitvora/Downloads/sample.json",
+		"/Users/rishitvora/Downloads/controller-req-obj.json",
+		"/Users/rishitvora/Documents/RazorThink/Projects/razor-sdk-samples/test_scenarios/test_cases_pre_run/struc_test_cases.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/SDK-testbench/platform_tests/test_configuration.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/SDK-testbench/platform_tests/engine_tests/__init__.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/SDK-testbench/platform_tests/engine_tests/test_atomic_execution.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/logs/myspace/tmp_files/PandasOps_1_362b639e-7539-467f-9092-2b65bec00e7c.json",
+		"/Users/rishitvora/Documents/RazorThink/Projects/logs/myspace/tmp_files/PandasOps_1_8862635c-f6d6-4800-891c-1e5c64d31ae7.txt",
+		"/Users/rishitvora/Documents/RazorThink/Projects/Demo CLI Test/git checkout master",
+		"/Users/rishitvora/anaconda3/envs/razor_cli/lib/python3.7/site-packages/dvc/utils/__init__.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/Demo CLI Test/test2/main.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/cli_helper/Dockerfile",
+		"/Users/rishitvora/Desktop/Example Schema.json",
+		"/Users/rishitvora/Desktop/DI_Example.json",
+		"/Users/rishitvora/Downloads/DynamicInput_Updated.json",
+		"/Users/rishitvora/Downloads/run1.json",
+		"/Users/rishitvora/Documents/Personal/sourceCode/AdventOfCode/2019/day_2.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/AdventOfCode/2019/day_1.py",
+		"/untitled",
+		"/Users/rishitvora/Documents/RazorThink/Projects/razorthink-ai-free-standing-engine/docker-controller/python-controller-v3/controller/config.ini",
+		"/Volumes/Kindle/documents/Downloads/Items01/The Dark Forest (The Three-Body Problem Book 2)_B00U7G0UYI.sdr/assets/metadata.kfx",
+		"/Volumes/Kindle/metadata.calibre",
+		"/Users/rishitvora/Documents/Personal/coscien_thread/fib_simulator.py",
+		"/Users/rishitvora/Documents/Personal/coscien_thread/example_6.py",
+		"/Users/rishitvora/Documents/Personal/coscien_thread/example_5.py",
+		"/Users/rishitvora/Documents/Personal/coscien_thread/example_4.py",
+		"/Users/rishitvora/Documents/Personal/coscien_thread/example_3.py",
+		"/Users/rishitvora/Documents/Personal/coscien_thread/example_2.py",
+		"/Users/rishitvora/Documents/Personal/coscien_thread/example_1.py",
+		"/Users/rishitvora/Documents/Personal/coscien_thread/.gitignore",
+		"/Users/rishitvora/Desktop/temp.py",
+		"/Users/rishitvora/Documents/Personal/hacktoberfest/scripts/hello_world_specbug.py",
+		"/Users/rishitvora/Downloads/test_different_executors.py",
+		"/Users/rishitvora/Documents/test_cases/04_atomic_file_transport_large.py",
+		"/Users/rishitvora/Documents/test_cases/03_atomic_file_transport.py",
+		"/Users/rishitvora/Documents/test_cases/02_atomic_kafka_transport_large.py",
+		"/Users/rishitvora/Documents/test_cases/01_atomic_kafka_transport.py",
+		"/Users/rishitvora/Desktop/dummy_1KB_df.parquet",
+		"/Users/rishitvora/Desktop/file10MB.txt",
+		"/Users/rishitvora/Documents/RazorThink/Projects/Release Control/rztdl-3.1.13/requirements/common.txt",
+		"/Users/rishitvora/Documents/RazorThink/Projects/Release Control/rztdl-3.1.13/setup.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/Release Control/razor-sdk-0.1.31.10/requirements.txt",
+		"/Users/rishitvora/Documents/RazorThink/Projects/Release Control/razor-sdk-0.1.31.10/setup.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/Release Control/rztdl-3.1.13/requirements/prod.txt",
+		"/Users/rishitvora/Documents/RazorThink/Projects/Release Control/rztdl-3.1.13/requirements.txt",
+		"/Users/rishitvora/Desktop/dummy_df_size_gen.py",
+		"/Users/rishitvora/Desktop/mWxRKFRUjyRd",
+		"/Users/rishitvora/Desktop/dummy_multiclass.txt",
+		"/Users/rishitvora/Documents/Personal/airflow_demo.py",
+		"/Users/rishitvora/Desktop/airflow_t1.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/CodeWars/multiply_CW.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/CodeWars/who_likes_it_CW.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/CodeWars/decode_morse_code_CW.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/CodeWars/replace_with_alphabet_position_CW.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/CodeWars/counting_duplicates_CW.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/CodeWars/your_order_please_CW.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/.gitignore",
+		"/Users/rishitvora/Documents/RazorThink/kubeflow_demo/kubeflow_demo.ipynb",
+		"/Users/rishitvora/airflow/airflow.cfg",
+		"/usr/local/lib/python3.8/site-packages/airflow/operators/bash_operator.py",
+		"/usr/local/lib/python3.8/site-packages/airflow/models/dagbag.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/test1/sample.txt",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/sherlock_and_anagrams_HR.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/razor-sdk/temp.py",
+		"/Users/rishitvora/Documents/RazorThink/Projects/razor-sdk/__init__.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/ProjectEuler/euler004.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/s10_interquartile_range.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/s10_quartiles_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/ProjectEuler/euler003.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/diagonal_difference_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/bash_tutorials___looping_and_skipping_HR.sh",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/bash_tutorials_lets_echo_HR.sh",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/bash_tutorials_lets_echo_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/the_minion_game_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/capitalize_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/alphabet_rangoli_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/python_string_formatting_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/designer_door_mat_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/text_wrap_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/python_mutations_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/text_alignment_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/string_validators_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/find_a_string_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/Hack The Interview VI Asia Pacific/maximum_sum_10_1.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/whats_your_name_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/python_string_split_and_join_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/swap_case_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/np_eye_and_identity_HR.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/np_zeros_and_ones.py",
+		"/Users/rishitvora/Documents/Personal/sourceCode/HackerRank/python_tuples_HR.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 258.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "readme.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
