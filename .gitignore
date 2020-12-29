@@ -1,3 +1,5 @@
 .DS_Store
 .xml
 .idea
+*.sublime-workspace
+.ipynb_checkpoints
