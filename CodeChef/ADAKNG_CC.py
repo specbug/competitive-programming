@@ -19,5 +19,5 @@ for _ in range(t):
 		if tc <= k and tc < cc:
 			lc = tc
 	for i in range(r, 9):
-		for j in range(cc)
-		c+=1
+		for j in range(cc):
+		  c+=1
