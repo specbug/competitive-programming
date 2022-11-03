@@ -20,6 +20,6 @@ def group_anagrams(a):
         enc = [0] * 26
         for c in i:  # O(s)
             enc[ab_map[c]] += 1
-        enc_str = ''.join(str(i) for i in enc)
+        enc_str = '-'.join(str(e) for e in enc)
         ans_map[enc_str] = ans_map.get(enc_str, []) + [i]
     return [v for v in ans_map.values()]
