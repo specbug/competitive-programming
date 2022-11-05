@@ -1,3 +1,7 @@
+"""
+https://quastor.substack.com/p/rusty-days-ahead
+"""
+
 import random
 
 def get_sqrt_recursive(x, l, r):
