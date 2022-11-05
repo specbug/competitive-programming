@@ -1,5 +1,5 @@
 """
-https://quastor.substack.com/p/rusty-days-ahead
+https://quastor.substack.com/p/screw-sql-lets-just-use-english
 """
 
 import random
