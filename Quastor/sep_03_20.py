@@ -1,3 +1,7 @@
+"""
+https://quastor.substack.com/p/facebook-coming-after-youtube
+"""
+
 def is_palindrome_permutation(s: str) -> bool:
   n = len(s)
   if n == 1:
