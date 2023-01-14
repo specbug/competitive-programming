@@ -36,10 +36,6 @@ class Solution:
             set_map[k] = sorted(g)[0]
 
         for i in baseStr:
-            e = set_map.get(char_group.get(i, -1), i)
-            if ord(i) < ord(e):
-                ans += i
-            else:
-                ans += e
+            ans += set_map.get(char_group.get(i, -1), i)
 
         return ans
