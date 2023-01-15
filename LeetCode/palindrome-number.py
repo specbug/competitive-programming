@@ -4,8 +4,9 @@ class Solution:
             return False
         if x < 10:
             return True
-        s = str(x)
-        for i in range(len(s)//2):
-            if s[i] != s[-1-i]:
-                return False
-        return True
+        y = 0
+        z = x
+        while z != 0:
+            y = y*10 + z%10
+            z //= 10
+        return x == y
