@@ -1,16 +1,7 @@
-def twoSum(nums, target):
-    
-    hash_map = {}
-    
-    for i in range(len(nums)):
-        i_complement = target - nums[i]
-        if i_complement in list(hash_map.values()):
-            return [i, list(hash_map.keys())[list(hash_map.values()).index(i_complement)]]
-        
-        hash_map[i] = nums[i]
-
-
-num_list = list(map(int, input().split()))
-n_target = int(input())
-
-print(twoSum(num_list, n_target))
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hash_map = []
+        for e, i in enumerate(nums):
+            if target-i in hash_map:
+                return e, hash_map[target-i]
+            hash_map[i] = e
