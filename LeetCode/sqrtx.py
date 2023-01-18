@@ -1,18 +1,14 @@
 class Solution:
-    def get_sqrt_recursive(self, x, l, r):
-        if x < 2:
-            return x
-        mid = l + (r - l) // 2
-        if mid*mid <= x:
-            if (mid+1)*(mid+1) > x:
-                return mid
-            else:
-                return self.get_sqrt_recursive(x, mid+1, r)
-        else:
-            return self.get_sqrt_recursive(x, l, mid-1)
-        
-    
     def mySqrt(self, x: int) -> int:
-        if x < 2:
-            return x
-        return self.get_sqrt_recursive(x, 1, x)
+        if x <= 1: return x
+        l = 0
+        r = x
+        while l <= r:
+            m = l + (r-l)//2
+            if m*m <= x and (m+1)*(m+1) > x:
+                return m
+            elif m*m < x:
+                l = m+1
+            else:
+                r = m-1
+        return m
