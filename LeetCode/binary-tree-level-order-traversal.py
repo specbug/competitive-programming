@@ -1,3 +1,5 @@
+from collections import deque
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -9,14 +11,15 @@ class Solution:
         if not root:
             return
         ans = []
-        stack = [(root, 0)]
-        while stack:
-            node, i = stack.pop()
+        q = deque()
+        q.append([root, 0])
+        while q:
+            node, i = q.popleft()
             if node:
                 if i < len(ans):
                     ans[i].append(node.val)
                 else:
                     ans.append([node.val])
-                stack.append([node.right, i+1])
-                stack.append([node.left, i+1])
+                q.append([node.left, i+1])
+                q.append([node.right, i+1])
         return ans
