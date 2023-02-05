@@ -13,7 +13,11 @@ class Solution:
         def range_sum(node):
             if not node:
                 return 0
-            l = range_sum(node.left)
-            r = range_sum(node.right)
+            l = 0
+            r = 0
+            if node.val >= low:
+                l = range_sum(node.left)
+            if node.val <= high:
+                r = range_sum(node.right)
             return l+r+(node.val if low <= node.val <= high else 0)
         return range_sum(root)
