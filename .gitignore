@@ -3,3 +3,4 @@
 .idea
 *.sublime-workspace
 .ipynb_checkpoints
+.cache
