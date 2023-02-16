@@ -12,6 +12,9 @@
 .cache
 venv
 /vnv
+./.replit
 *.replit
 *.nix
 /.replit
+.config
+/.config
