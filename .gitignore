@@ -1,6 +1,17 @@
+# osx
 .DS_Store
+
+# ide
 .xml
 .idea
 *.sublime-workspace
 .ipynb_checkpoints
+
+# replit
+/.cache
 .cache
+venv
+/vnv
+*.replit
+*.nix
+/.replit
